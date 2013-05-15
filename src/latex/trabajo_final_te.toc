@@ -1,0 +1,15 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Motivaci\IeC {\'o}n y objetivos}{4}
+\contentsline {section}{\numberline {1.1}Justificaci\IeC {\'o}n del trabajo}{4}
+\contentsline {section}{\numberline {1.2}Objetivos}{4}
+\contentsline {chapter}{\numberline {2}Fundamentos te\IeC {\'o}ricos}{6}
+\contentsline {section}{\numberline {2.1}Notas hist\IeC {\'o}ricas sobre el polinomio de Taylor}{6}
+\contentsline {section}{\numberline {2.2}El polinomio de Taylor}{7}
+\contentsline {chapter}{\numberline {3}Procedimiento experimental}{8}
+\contentsline {section}{\numberline {3.1}Descripci\IeC {\'o}n de los experimentos}{8}
+\contentsline {section}{\numberline {3.2}Descripci\IeC {\'o}n del material}{8}
+\contentsline {section}{\numberline {3.3}Resultados obtenidos}{9}
+\contentsline {section}{\numberline {3.4}An\IeC {\'a}lisis de los resultados}{17}
+\contentsline {chapter}{\numberline {4}Conclusiones}{18}
+\contentsline {chapter}{\numberline {A}Algoritmos}{19}
+\contentsline {section}{\numberline {A.1}Interpolador de Taylor}{19}

@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{7}{0}{1}
+\beamer@subsectionintoc {1}{1}{Justificaci\IeC {\'o}n del trabajo}{7}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objetivos}{9}{0}{1}
+\beamer@sectionintoc {2}{Fundamentos te\IeC {\'o}ricos}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{Notas hist\IeC {\'o}ricas sobre el polinomio de Taylor}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{F\IeC {\'o}rmula de Taylor}{13}{0}{2}
+\beamer@sectionintoc {3}{Procedimiento experimental}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Resultados obtenidos 1}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Resultados obtenidos 2}{17}{0}{3}
+\beamer@subsectionintoc {3}{3}{Resultados obtenidos 3}{19}{0}{3}
+\beamer@subsectionintoc {3}{4}{Resultados obtenidos 4}{21}{0}{3}
+\beamer@sectionintoc {4}{Conclusiones}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Conclusiones}{23}{0}{4}
+\beamer@sectionintoc {5}{Algoritmos}{25}{0}{5}
+\beamer@subsectionintoc {5}{1}{Interpolador de Taylor}{25}{0}{5}

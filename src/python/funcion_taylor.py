@@ -1,0 +1,28 @@
+#!/usr/bin/python
+
+#Autores: Lorena Diaz Morales, Jenifer Cabrera Mesa, Claudio Garcia Vargas
+
+import sys
+from math import *
+
+def taylor(x,n,d):
+  subtotal=0
+  tot=0
+  i=1
+  while i<=n :
+   ti = ((((-1)**(i+1))*factorial(i-1))/((x**i)*(factorial(i))))*((x-d)**i)
+   subtotal = float(subtotal)+float(ti)
+   i+=1
+  valor = float(log(6*d))
+  tot = float(valor) + float(subtotal)
+  return tot
+if __name__=='__main__':
+  x = float(sys.argv[1])
+  n = int(sys.argv[2])
+  d = float(sys.argv[3])
+  print ''
+  print 'La aproximacion de Taylor es',taylor(x,n,d)
+  diferencia=float(float(log(6*x))-float((taylor(x,n,d))))
+  l=float(log(6*x))
+  print 'La diferencia entre el valor real de la funcion y la interpolacion es',diferencia
+  print 'Valor de la funcion orignial en el punto:',l
